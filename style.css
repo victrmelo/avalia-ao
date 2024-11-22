@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+#sobre img {
+    max-width: 100%;
+    height: auto;
+}
+
+form {
+    max-width: 600px;
+    margin: auto;
+}
+
+form .form-group {
+    margin-bottom: 15px;
+}
